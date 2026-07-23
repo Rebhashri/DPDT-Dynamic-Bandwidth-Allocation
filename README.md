@@ -159,3 +159,19 @@ DPDT-Dynamic-Bandwidth-Allocation/
 │
 ├── ver12.py
 └── README.md
+
+---
+
+## How to Run
+
+### Requirements
+
+- Python 3.x
+- Visual Studio Code or any Python-compatible IDE
+
+### Steps
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Rebhashri/DPDT-Dynamic-Bandwidth-Allocation.git
